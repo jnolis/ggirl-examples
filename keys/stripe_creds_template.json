@@ -1,0 +1,6 @@
+{
+  "public": "",
+  "secret": "",
+  "checkout-session-completed-webhook-signing-secret": "",
+  "tax_rates": []
+}
