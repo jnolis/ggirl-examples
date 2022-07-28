@@ -5,6 +5,9 @@
 # You can run the server by using the command
 # shiny::runApp("src/stripe-fulfillment", host = "0.0.0.0", port = 80L)
 
+# For more detail about running a background process in Shiny see the blogpost
+# https://jnolis.com/blog/shiny_background_processes/
+
 library(shiny)
 library(jsonlite)
 library(brochure)
